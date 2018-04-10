@@ -4,12 +4,12 @@
 https://github.com/kunjee17/awesome-fable
 
 ## Other libraries
-http://frank-fs.github.io/frank/
-https://docs.microsoft.com/en-us/aspnet/core/
-https://github.com/kayakhttp/kayak
-http://websharper.com/
-http://nancyfx.org/
-https://saturnframework.github.io/docs/
+* http://frank-fs.github.io/frank/
+* https://docs.microsoft.com/en-us/aspnet/core/
+* https://github.com/kayakhttp/kayak
+* http://websharper.com/
+* http://nancyfx.org/
+* https://saturnframework.github.io/docs/
 
 ## Owin specs
 https://docs.microsoft.com/en-us/aspnet/aspnet/overview/owin-and-katana/an-overview-of-project-katana
