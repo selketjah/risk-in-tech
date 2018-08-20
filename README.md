@@ -3,6 +3,13 @@
 Picking a new technology is hard. Very often we avoid change at all cost, and go with the devil we know. Another extreme is to do some haphazard implementation and hope for the best.
 In this talk, I will tell you the strategies I tried out to understand three web frameworks I didn't know beforehand, Freya, Suave and Giraffe, in order to find out if they were a good fit for my needs. Along the way, I will discuss some tricks that everybody could use to understand, beyond these specific libraries, what heuristics worked and which didn't in quickly evaluating libraries and understanding their risks.
 
+## Update 14/08/2018 - misattribution creator Suave
+
+In my talks I refer to [Henrik Feldt](https://github.com/haf) as the creator of Suave, but I have since learned that this is a misattribution.
+Although Hendrik is one of the main contributors to Suave, [Ademar Gonzalez](https://github.com/ademar) is its [creator](https://github.com/SuaveIO/suave/commit/cb8003f366efef5e09867285391b659a5e8e1039).
+
+I apologize for my mistake and I hope this makes up for it.
+
 ## Slides
 Information on the slides will vary from presentation to presentation.
 Some categories will be reevaluated before I present the talk at a conference, to show the latest status of the libraries envolved in the talk.
